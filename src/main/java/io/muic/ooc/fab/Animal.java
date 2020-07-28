@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Random;
 
 public abstract class Animal implements Methods {
-    // Characteristics shared by all animals (class variables).
 
     protected static final Random RANDOM = new Random();
 
